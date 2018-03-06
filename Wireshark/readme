@@ -1,5 +1,5 @@
 
-Wireshark_report_ALGG1.pdf contains our report for wireshark project.
-tshark.sh is the script used to record wireless traffic in 2 files 1 hour each by using tshark.
-library.txt is an example of an exported tshark file containing the desired information of the recorded wireless traffic.
-extract_info.py contains the python script for extracting the desired information from a tshark exported file like library.txt.
+-Wireshark_report_ALGG1.pdf contains our report for wireshark project.
+-tshark.sh is the script used to record wireless traffic in 2 files 1 hour each by using tshark.
+-library.txt is an example of an exported tshark file containing the desired information of the recorded wireless traffic.
+-extract_info.py contains the python script for extracting the desired information from a tshark exported file like library.txt.
